@@ -12,7 +12,11 @@ h1{
   background-color: #e0e0eb;
   margin: 10px;
   padding: 10px;
-  display: [flex];
+  display: [block];
+  width: 20%;
+  box-shadow: 8px 8px [#194D33];
+  border radius: 20px;
+  
 }
 .assign img {
   width: 200px;
